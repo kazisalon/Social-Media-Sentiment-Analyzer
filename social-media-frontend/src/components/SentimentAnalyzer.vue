@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
@@ -45,7 +44,6 @@
 	</body>
 </html>
 
-<!-- styles.css -->
 <style>
 body {
 	font-family: Arial, sans-serif;
